@@ -1,4 +1,4 @@
-import EscrowDashboard from "./EscrowDashboard";
+import EscrowDashboard from "./escrowDashboard";
 
 function App() {
   return <EscrowDashboard />;
